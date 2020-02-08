@@ -20,6 +20,9 @@ See:
 * [Configuration](https://ckeditor.com/docs/ckeditor5/latest/builds/guides/integration/configuration.html) for how to configure the editor.
 * [Creating custom builds](https://ckeditor.com/docs/ckeditor5/latest/builds/guides/development/custom-builds.html) for how to customize the build (configure and rebuild the editor bundle).
 
+URL Upload: http://localhost:8080/api/uploadck5
+config in ./src/ckeditor.js
+
 ## Quick start
 
 First, install the build from npm:
