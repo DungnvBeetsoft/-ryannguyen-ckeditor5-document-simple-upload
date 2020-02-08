@@ -72,7 +72,7 @@
   "bugs": "https://github.com/ckeditor/ckeditor5/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/muwcjlinh/ryannguyen-ckeditor5-document-simple-upload.git"
+    "url": "https://github.com/DungnvBeetsoft/-ryannguyen-ckeditor5-document-simple-upload.git"
   },
   "scripts": {
     "build": "webpack --mode production",
